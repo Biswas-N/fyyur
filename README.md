@@ -2,10 +2,10 @@
 
 ### Dependencies
 This project depends on the following
-1. Flask
-2. Babel
-3. Sql-Alchemy
-4. Psycopg2
+1. [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+2. [Babel](https://babeljs.io/)
+3. [Sql-Alchemy]https://www.sqlalchemy.org/)
+4. [Psycopg2](https://www.psycopg.org/)
 
 ### Introduction
 
