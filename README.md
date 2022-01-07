@@ -36,4 +36,4 @@ Fyyur is a venue and artist booking site that lets an artist find a venue and ve
    $ python3 app.py
    ```
 
-7. Navigate to Home page [http://localhost:8000](http://localhost:8000)
+7. Navigate to Home page [http://localhost:8000/](http://localhost:8000/)
