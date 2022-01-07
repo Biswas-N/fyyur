@@ -1,5 +1,12 @@
 ## Fyyur
 
+### Dependencies
+This project depends on the following
+1. Flask
+2. Babel
+3. Sql-Alchemy
+4. Psycopg2
+
 ### Introduction
 
 Fyyur is a venue and artist booking site that lets an artist find a venue and venue to find an artist. This site lets you post a new artists and venues, create shows linking an artist and a venue.
